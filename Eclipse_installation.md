@@ -1,0 +1,45 @@
+# eclipse程序安装说明
+
+* ![eclipse](images/Eclipse_install/Eclipse_install_1.jpg)
+* 1.双击打开文件
+* ![eclipse_1](images/Eclipse_install/Eclipse_install_2.jpg)
+* 2.选择Java EE
+* ![eclipse_2](images/Eclipse_install/Eclipse_install_3.jpg)
+* 3.选择安装地址，并联网下载
+* ![eclipse_3](images/Eclipse_install/Eclipse_install_4.jpg)
+* 4.下载进行中
+* ![eclipse_4](images/Eclipse_install/Eclipse_install_5.jpg)
+* 5.下载进行中，勾选，同意
+* ![eclipse_5](images/Eclipse_install/Eclipse_install_6.jpg)
+* 6.下载进行中
+* ![eclipse_6](images/Eclipse_install/Eclipse_install_7.jpg)
+* 7.下载完成，点击LAUNCH
+* ![eclipse_7](images/Eclipse_install/Eclipse_install_8.jpg)
+* 8.程序打开中
+* ![eclipse_8](images/Eclipse_install/Eclipse_install_9.jpg)
+* 9.选择workspace，空间应大
+* ![eclipse_9](images/Eclipse_install/Eclipse_install_10.jpg)
+* 10.至此，Eclipse软件安装完成。下面的是新建project步骤
+* ![eclipse_10](images/Eclipse_install/Eclipse_install_11.jpg)
+* 11.关闭Welcome
+* ![eclipse_11](images/Eclipse_install/Eclipse_install_12.jpg)
+* 12.关闭Welcome
+* ![eclipse_12](images/Eclipse_install/Eclipse_install_13.jpg)
+* 13.关闭后出现图示
+* ![eclipse_13](images/Eclipse_install/Eclipse_install_14.jpg)
+* 14.在该图位置右键，选择new,project
+* ![eclipse_14](images/Eclipse_install/Eclipse_install_15.jpg)
+* 15.选择Java Project
+* ![eclipse_15](images/Eclipse_install/Eclipse_install_16.jpg)
+* 16.输入项目名称，选择JRE
+* ![eclipse_16](images/Eclipse_install/Eclipse_install_17.jpg)
+* 17.点击Finish键
+* ![eclipse_17](images/Eclipse_install/Eclipse_install_18.jpg)
+* 18.YES
+* ![eclipse_18](images/Eclipse_install/Eclipse_install_19.jpg)
+* 19在src上右键，新建Class文件
+* ![eclipse_19](images/Eclipse_install/Eclipse_install_20.jpg)
+* 20.输入程序名
+* ![eclipse_20](images/Eclipse_install/Eclipse_install_21.jpg)
+* 21.项目新建完成
+* ![eclipse_21](images/Eclipse_install/Eclipse_install_22.jpg)
